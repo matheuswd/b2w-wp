@@ -40,7 +40,6 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'bootstrap2wordpress' ); ?></a>
 
-	
 	<!-- HEADER
 	================================================== -->
 	<header class="site-header" role="banner">
